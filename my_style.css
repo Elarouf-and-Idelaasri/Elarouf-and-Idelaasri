@@ -317,10 +317,10 @@ section:hover ban{
 
 section a {
   text-decoration: none;
-  color :rgb(0 , 0 , 0);
+  color :rgb(0, 60, 255);
 }
 section:hover a {
-  color :rgb(0, 60, 255);
+  color :rgb(38, 0, 253);
 }
 
 #contact{
